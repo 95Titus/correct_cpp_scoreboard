@@ -4,7 +4,7 @@ Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 master|[![Build Status](https://travis-ci.org/95Titus/correct_cpp_scoreboard.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_scoreboard)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_scoreboard/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_scoreboard/branch/master)
 
-[Correct C++](https://github.com/95Titus/correct_cpp) chapter 'Scoreboard'.
+[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Scoreboard'.
 
 ## Goal
 
@@ -17,7 +17,7 @@ master|[![Build Status](https://travis-ci.org/95Titus/correct_cpp_scoreboard.svg
 
 ## Exercise
 
- * Replace all `richelbilderbeek/correct_cpp_` s by `[your_github_username]/correct_cpp_`, even in this line :+1:
+ * Replace all `richelbilderbeek/correct_cpp_` s by `95Titus/correct_cpp_`, even in this line :+1:
  * The link to [Correct C++](https://github.com/richelbilderbeek/correct_cpp) should still point to `richelbilderbeek`s version, even in this line :+1:
 
 Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
@@ -38,7 +38,7 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 :construction: [hello_qt](https://github.com/richelbilderbeek/correct_cpp_hello_qt)|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello_qt.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_hello_qt) | [![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_hello_qt/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_hello_qt?branch=master)
 :construction: [to_morse](https://github.com/richelbilderbeek/correct_cpp_to_morse)|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_to_morse.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_to_morse) | [![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_to_morse/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_to_morse?branch=master)
 
-This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
+This is [how this course works](https://github.com/95Titus/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
   2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
